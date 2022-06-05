@@ -1,4 +1,4 @@
 # Practicing JavaScript
-Practicing key JavaScript features
+Practicing key JS features
 
-An extended repository displaying diverse javascript activities that vary from beginner classes to more advanced classes involving DOM and Events. 
+An extended repository displaying diverse JavaScript activities that vary from beginner classes to more advanced classes involving DOM and Events. 
